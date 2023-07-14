@@ -2,7 +2,7 @@
     display: flex;
 }
 .jcb{
-    ustify-content: space-between;
+    justify-content: space-between;
 }
 .jcc{
     justify-content: center;
