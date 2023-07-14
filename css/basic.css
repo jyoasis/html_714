@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'fontn';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/RixMomsBlanketR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pr400';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'pr400';
+    line-height: 2;
+    color: #ff8546;
+    letter-spacing: -0.085em;
+}
+a{text-decoration: none;}
+ul, dl, ol{
+    list-style: none;
+}
