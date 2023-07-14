@@ -1,1 +1,39 @@
+#hd{
+    align-items: center;
+    padding: 0 1rem;
+    border-bottom: 1px solid #475300;
+    position: fixed;
+    left: 0; right: 0; top: 0; 
+    h1{
+        a{
+            
+            img{
+                height: 35px;
+            }
 
+        }
+    }
+    ul{
+        li{
+            a{
+                padding: 0 0.3rem;
+                &:hover{
+                    color: #fa47aa;
+                    font-weight: bolder;
+                }
+            }
+        }
+    }
+}
+.section{
+    height: 100vh;
+}
+#about{
+    background-color: antiquewhite;
+}
+#showroom{
+    background-color: #bcfacf2f;
+}
+#contact{
+    background-color: saddlebrown;
+}
